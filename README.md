@@ -1,5 +1,5 @@
 # Provision Store App
-
+Provision Store is an E-shop website which is a virtual provision marketplace where users can buy various types of provision products.
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
